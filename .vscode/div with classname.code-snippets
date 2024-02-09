@@ -1,0 +1,11 @@
+{
+	"Custom React Snippet": {
+	  "prefix": "divc",
+	  "body": [
+		"<div className={styles.${1:placeholder}}>",
+		"$0",
+		"</div>"
+	  ],
+	  "description": "Create a div with a className using styles"
+	}
+}

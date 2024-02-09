@@ -1,0 +1,9 @@
+{
+	"React className": {
+	  "prefix": "cn",
+	  "body": [
+		"className={${1}}"
+	  ],
+	  "description": "Inserts className={}"
+	}
+  }
